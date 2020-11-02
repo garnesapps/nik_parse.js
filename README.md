@@ -12,7 +12,7 @@ Sample
 	nikParse(nik, function(result) {
 	
 		// object
-		console.log(JSON.stringify(result, null, 2));
+		console.log(result);
 	
 	});
 	
